@@ -1,3 +1,3 @@
 # HelloWorld
 First Repository 
-mergng the change from client
+Merge changes from client
